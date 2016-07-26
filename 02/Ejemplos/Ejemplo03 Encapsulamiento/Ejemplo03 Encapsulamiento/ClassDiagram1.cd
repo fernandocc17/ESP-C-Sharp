@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ejemplo03_Encapsulamiento.Animal" Collapsed="true">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEABCAAQCAIAAAAAAAAAAAAACAAAIQAAAAAAA=</HashCode>
+      <FileName>Animal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejemplo03_Encapsulamiento.Gato" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gato.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejemplo03_Encapsulamiento.Perro" Collapsed="true">
+    <Position X="3.25" Y="2" Width="1.5" />
+    <InheritanceLine Type="Ejemplo03_Encapsulamiento.Animal" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="3.188" Y="1.062" />
+        <Point X="3.188" Y="1.165" />
+        <Point X="3.188" Y="1.165" />
+        <Point X="3.188" Y="1.375" />
+        <Point X="4" Y="1.375" />
+        <Point X="4" Y="2" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Perro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,11 @@
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo12 Archivos\Ejemplo12 Archivos\bin\Debug\Ejemplo12 Archivos.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo12 Archivos\Ejemplo12 Archivos\bin\Debug\Ejemplo12 Archivos.pdb
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo12 Archivos\Ejemplo12 Archivos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo12 Archivos\Ejemplo12 Archivos\obj\x86\Debug\Ejemplo12_Archivos.Form1.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo12 Archivos\Ejemplo12 Archivos\obj\x86\Debug\Ejemplo12_Archivos.Properties.Resources.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo12 Archivos\Ejemplo12 Archivos\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo12 Archivos\Ejemplo12 Archivos\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo12 Archivos\Ejemplo12 Archivos\obj\x86\Debug\Ejemplo12 Archivos.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo12 Archivos\Ejemplo12 Archivos\obj\x86\Debug\Ejemplo12 Archivos.pdb
+Z:\Progr Basico Sabatino\00Recursos Compartidos\03 C#\Ejemplos\Ejemplo12 Archivos\Ejemplo12 Archivos\obj\x86\Debug\Ejemplo12 Archivos.exe
+Z:\Progr Basico Sabatino\00Recursos Compartidos\03 C#\Ejemplos\Ejemplo12 Archivos\Ejemplo12 Archivos\obj\x86\Debug\Ejemplo12 Archivos.pdb

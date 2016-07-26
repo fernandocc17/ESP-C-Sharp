@@ -1,0 +1,29 @@
+Practica 3
+
+1)Crear una clase videojuego que tenga los siguientes atributos:
+-Titulo
+-Compañia
+-Genero
+-Año
+-Cantidad de jugadores
+
+2)Que tenga los siguientes metodos:
+-guardarJuego
+-toString()//este metodo debe devolver una cadena que contenga todos los datos del videojuego
+
+3)Crear una interfaz que permita dar todos los atributos del juego para luego.
+
+4)Con los datos introducidos en la interfaz a traves de un boton que se guarden las caracteristicas 
+en un archivo que contenga todos los videojuegos con sus caracteristicas.
+
+5)En la misma interfaz con un boton cargar todos los videojuegos a un List
+
+6)En la misma interfaz con un boton cargar el nombre de todos los videojuegos a un listbox
+
+7)Cuando se le de click a un elemento de ese listbox salga el resto de la informacion en labels.
+
+EXTRAS
+
+8)No deje que se introduzca el mismo titulo dos veces.
+
+9)Se cree un archivo que guarde solo los titulos de los videojuegos

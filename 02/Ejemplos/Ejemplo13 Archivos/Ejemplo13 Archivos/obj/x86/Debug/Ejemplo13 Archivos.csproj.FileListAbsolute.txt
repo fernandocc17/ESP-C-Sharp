@@ -1,0 +1,11 @@
+Z:\Basico 10 de sep\Carlos Sedano De La Torre\C#\Ejemplo13 Archivos\Ejemplo13 Archivos\bin\Debug\Ejemplo13 Archivos.exe
+Z:\Basico 10 de sep\Carlos Sedano De La Torre\C#\Ejemplo13 Archivos\Ejemplo13 Archivos\bin\Debug\Ejemplo13 Archivos.pdb
+Z:\Basico 10 de sep\Carlos Sedano De La Torre\C#\Ejemplo13 Archivos\Ejemplo13 Archivos\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Basico 10 de sep\Carlos Sedano De La Torre\C#\Ejemplo13 Archivos\Ejemplo13 Archivos\obj\x86\Debug\Ejemplo13_Archivos.Form1.resources
+Z:\Basico 10 de sep\Carlos Sedano De La Torre\C#\Ejemplo13 Archivos\Ejemplo13 Archivos\obj\x86\Debug\Ejemplo13_Archivos.Properties.Resources.resources
+Z:\Basico 10 de sep\Carlos Sedano De La Torre\C#\Ejemplo13 Archivos\Ejemplo13 Archivos\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\Basico 10 de sep\Carlos Sedano De La Torre\C#\Ejemplo13 Archivos\Ejemplo13 Archivos\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\Basico 10 de sep\Carlos Sedano De La Torre\C#\Ejemplo13 Archivos\Ejemplo13 Archivos\obj\x86\Debug\Ejemplo13 Archivos.exe
+Z:\Basico 10 de sep\Carlos Sedano De La Torre\C#\Ejemplo13 Archivos\Ejemplo13 Archivos\obj\x86\Debug\Ejemplo13 Archivos.pdb
+Z:\Basico 10 de sep\00 Recursos compartidos\03 C#\Ejemplos\Ejemplo13 Archivos\Ejemplo13 Archivos\obj\x86\Debug\Ejemplo13 Archivos.exe
+Z:\Basico 10 de sep\00 Recursos compartidos\03 C#\Ejemplos\Ejemplo13 Archivos\Ejemplo13 Archivos\obj\x86\Debug\Ejemplo13 Archivos.pdb

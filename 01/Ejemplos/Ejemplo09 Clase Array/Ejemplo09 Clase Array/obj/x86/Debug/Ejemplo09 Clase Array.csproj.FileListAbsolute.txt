@@ -1,0 +1,9 @@
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo09 Clase Array\Ejemplo09 Clase Array\bin\Debug\Ejemplo09 Clase Array.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo09 Clase Array\Ejemplo09 Clase Array\bin\Debug\Ejemplo09 Clase Array.pdb
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo09 Clase Array\Ejemplo09 Clase Array\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo09 Clase Array\Ejemplo09 Clase Array\obj\x86\Debug\Ejemplo09_Clase_Array.Form1.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo09 Clase Array\Ejemplo09 Clase Array\obj\x86\Debug\Ejemplo09_Clase_Array.Properties.Resources.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo09 Clase Array\Ejemplo09 Clase Array\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo09 Clase Array\Ejemplo09 Clase Array\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo09 Clase Array\Ejemplo09 Clase Array\obj\x86\Debug\Ejemplo09 Clase Array.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo09 Clase Array\Ejemplo09 Clase Array\obj\x86\Debug\Ejemplo09 Clase Array.pdb

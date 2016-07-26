@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ejemplo05_Sobrecarga_y_sobreescritura.Animal">
+    <Position X="2" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAIAAAAAAAAAQAAAAAIAIAAAAAAAA=</HashCode>
+      <FileName>Animal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejemplo05_Sobrecarga_y_sobreescritura.Gato">
+    <Position X="1" Y="3.75" Width="1.5" />
+    <InheritanceLine Type="Ejemplo05_Sobrecarga_y_sobreescritura.Animal" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="2.312" Y="3.382" />
+        <Point X="2.312" Y="3.558" />
+        <Point X="1.75" Y="3.558" />
+        <Point X="1.75" Y="3.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gato.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejemplo05_Sobrecarga_y_sobreescritura.Perro" Collapsed="true">
+    <Position X="3" Y="3.75" Width="1.5" />
+    <InheritanceLine Type="Ejemplo05_Sobrecarga_y_sobreescritura.Animal" ManuallyRouted="true">
+      <Path>
+        <Point X="2.75" Y="3.382" />
+        <Point X="2.75" Y="3.55" />
+        <Point X="3.75" Y="3.55" />
+        <Point X="3.75" Y="3.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Perro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

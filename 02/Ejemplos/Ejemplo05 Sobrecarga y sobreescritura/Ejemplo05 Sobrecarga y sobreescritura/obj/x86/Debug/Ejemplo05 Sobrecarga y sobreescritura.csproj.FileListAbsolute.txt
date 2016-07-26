@@ -1,0 +1,9 @@
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo05 Sobrecarga y sobreescritura\Ejemplo05 Sobrecarga y sobreescritura\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo05 Sobrecarga y sobreescritura\Ejemplo05 Sobrecarga y sobreescritura\obj\x86\Debug\Ejemplo05_Sobrecarga_y_sobreescritura.Form1.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo05 Sobrecarga y sobreescritura\Ejemplo05 Sobrecarga y sobreescritura\obj\x86\Debug\Ejemplo05_Sobrecarga_y_sobreescritura.Properties.Resources.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo05 Sobrecarga y sobreescritura\Ejemplo05 Sobrecarga y sobreescritura\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo05 Sobrecarga y sobreescritura\Ejemplo05 Sobrecarga y sobreescritura\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo05 Sobrecarga y sobreescritura\Ejemplo05 Sobrecarga y sobreescritura\bin\Debug\Ejemplo05 Sobrecarga y sobreescritura.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo05 Sobrecarga y sobreescritura\Ejemplo05 Sobrecarga y sobreescritura\bin\Debug\Ejemplo05 Sobrecarga y sobreescritura.pdb
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo05 Sobrecarga y sobreescritura\Ejemplo05 Sobrecarga y sobreescritura\obj\x86\Debug\Ejemplo05 Sobrecarga y sobreescritura.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo05 Sobrecarga y sobreescritura\Ejemplo05 Sobrecarga y sobreescritura\obj\x86\Debug\Ejemplo05 Sobrecarga y sobreescritura.pdb

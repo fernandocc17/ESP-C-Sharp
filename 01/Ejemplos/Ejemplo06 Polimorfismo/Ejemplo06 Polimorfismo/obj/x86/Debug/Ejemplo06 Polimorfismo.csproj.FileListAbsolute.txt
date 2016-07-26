@@ -1,0 +1,9 @@
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo06 Polimorfismo\Ejemplo06 Polimorfismo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo06 Polimorfismo\Ejemplo06 Polimorfismo\obj\x86\Debug\Ejemplo06_Polimorfismo.Form1.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo06 Polimorfismo\Ejemplo06 Polimorfismo\obj\x86\Debug\Ejemplo06_Polimorfismo.Properties.Resources.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo06 Polimorfismo\Ejemplo06 Polimorfismo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo06 Polimorfismo\Ejemplo06 Polimorfismo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo06 Polimorfismo\Ejemplo06 Polimorfismo\bin\Debug\Ejemplo06 Polimorfismo.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo06 Polimorfismo\Ejemplo06 Polimorfismo\bin\Debug\Ejemplo06 Polimorfismo.pdb
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo06 Polimorfismo\Ejemplo06 Polimorfismo\obj\x86\Debug\Ejemplo06 Polimorfismo.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo06 Polimorfismo\Ejemplo06 Polimorfismo\obj\x86\Debug\Ejemplo06 Polimorfismo.pdb

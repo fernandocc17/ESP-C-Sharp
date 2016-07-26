@@ -1,0 +1,9 @@
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo11 Pila entera\Ejemplo11 Pila entera\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo11 Pila entera\Ejemplo11 Pila entera\obj\x86\Debug\Ejemplo11_Pila_entera.Form1.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo11 Pila entera\Ejemplo11 Pila entera\obj\x86\Debug\Ejemplo11_Pila_entera.Properties.Resources.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo11 Pila entera\Ejemplo11 Pila entera\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo11 Pila entera\Ejemplo11 Pila entera\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo11 Pila entera\Ejemplo11 Pila entera\bin\Debug\Ejemplo11 Pila entera.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo11 Pila entera\Ejemplo11 Pila entera\bin\Debug\Ejemplo11 Pila entera.pdb
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo11 Pila entera\Ejemplo11 Pila entera\obj\x86\Debug\Ejemplo11 Pila entera.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo11 Pila entera\Ejemplo11 Pila entera\obj\x86\Debug\Ejemplo11 Pila entera.pdb

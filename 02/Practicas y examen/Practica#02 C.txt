@@ -1,0 +1,25 @@
+Practica 2
+
+1)Hacer una forma que permita al usuario elegir las dimensiones de una matriz entera
+2)Boton que permita al usuario crear la matriz con los tamaños especificados.
+3)Textbox y boton para introducir valores a la matriz.
+4)Labels que se actualicen mostrando la fila y la columna donde se va a escribir a continuacion.
+5)Que el programa no permita meter mas valores a la matriz una vez que ya este llena.
+6)Textbox y Button para que el usuario busque un numero en la matriz.
+
+Una vez creada la matriz hacer las siguientes funciones:
+7)Boton que calcule el promedio de la matriz.
+8)El usuario pueda calcular el promedio de una fila o columna.
+9)El usuario puede obtener el valor maximo.
+10)El usuario puede obtener el valor minimo.
+11)Boton para mostrar la matriz.
+
+Extras
+12)Se muestre los valores inferiores de la diagonal principal.
+13)Se muestre los valores superiores a la diagonal principal.
+14)El usuario pueda saber cuantos numeros diferentes se ingresaron .
+15)Se muestre la diagonal principal.
+16)Se muestre la inversa de la diagonal principal.
+17)Se pueda saber cuantas veces se repite un numero.
+18)Muestre la transpuesta de la matriz.
+19)Saque el determinante de la matriz.

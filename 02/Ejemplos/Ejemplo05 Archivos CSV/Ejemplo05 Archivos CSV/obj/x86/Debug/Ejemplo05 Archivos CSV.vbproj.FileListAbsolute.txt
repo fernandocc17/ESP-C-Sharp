@@ -1,0 +1,12 @@
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo05 Archivos CSV\Ejemplo05 Archivos CSV\bin\Debug\Ejemplo05 Archivos CSV.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo05 Archivos CSV\Ejemplo05 Archivos CSV\bin\Debug\Ejemplo05 Archivos CSV.pdb
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo05 Archivos CSV\Ejemplo05 Archivos CSV\bin\Debug\Ejemplo05 Archivos CSV.xml
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo05 Archivos CSV\Ejemplo05 Archivos CSV\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo05 Archivos CSV\Ejemplo05 Archivos CSV\obj\x86\Debug\Ejemplo05_Archivos_CSV.Form1.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo05 Archivos CSV\Ejemplo05 Archivos CSV\obj\x86\Debug\Ejemplo05_Archivos_CSV.Form2.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo05 Archivos CSV\Ejemplo05 Archivos CSV\obj\x86\Debug\Ejemplo05_Archivos_CSV.Resources.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo05 Archivos CSV\Ejemplo05 Archivos CSV\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo05 Archivos CSV\Ejemplo05 Archivos CSV\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo05 Archivos CSV\Ejemplo05 Archivos CSV\obj\x86\Debug\Ejemplo05 Archivos CSV.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo05 Archivos CSV\Ejemplo05 Archivos CSV\obj\x86\Debug\Ejemplo05 Archivos CSV.xml
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo05 Archivos CSV\Ejemplo05 Archivos CSV\obj\x86\Debug\Ejemplo05 Archivos CSV.pdb

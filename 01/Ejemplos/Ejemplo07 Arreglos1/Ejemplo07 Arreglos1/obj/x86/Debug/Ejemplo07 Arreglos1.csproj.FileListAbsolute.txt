@@ -1,0 +1,9 @@
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo07 Arreglos1\Ejemplo07 Arreglos1\bin\Debug\Ejemplo07 Arreglos1.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo07 Arreglos1\Ejemplo07 Arreglos1\bin\Debug\Ejemplo07 Arreglos1.pdb
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo07 Arreglos1\Ejemplo07 Arreglos1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo07 Arreglos1\Ejemplo07 Arreglos1\obj\x86\Debug\Ejemplo07_Arreglos.Form1.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo07 Arreglos1\Ejemplo07 Arreglos1\obj\x86\Debug\Ejemplo07_Arreglos.Properties.Resources.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo07 Arreglos1\Ejemplo07 Arreglos1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo07 Arreglos1\Ejemplo07 Arreglos1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo07 Arreglos1\Ejemplo07 Arreglos1\obj\x86\Debug\Ejemplo07 Arreglos1.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo07 Arreglos1\Ejemplo07 Arreglos1\obj\x86\Debug\Ejemplo07 Arreglos1.pdb

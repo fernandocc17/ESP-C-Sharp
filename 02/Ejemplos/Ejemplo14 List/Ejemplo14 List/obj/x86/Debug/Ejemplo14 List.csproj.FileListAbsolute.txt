@@ -1,0 +1,18 @@
+c:\users\maestrok\documents\visual studio 2010\Projects\Ejemplo14 List\Ejemplo14 List\bin\Debug\Ejemplo14 List.exe
+c:\users\maestrok\documents\visual studio 2010\Projects\Ejemplo14 List\Ejemplo14 List\bin\Debug\Ejemplo14 List.pdb
+c:\users\maestrok\documents\visual studio 2010\Projects\Ejemplo14 List\Ejemplo14 List\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\maestrok\documents\visual studio 2010\Projects\Ejemplo14 List\Ejemplo14 List\obj\x86\Debug\Ejemplo14_List.Form1.resources
+c:\users\maestrok\documents\visual studio 2010\Projects\Ejemplo14 List\Ejemplo14 List\obj\x86\Debug\Ejemplo14_List.Properties.Resources.resources
+c:\users\maestrok\documents\visual studio 2010\Projects\Ejemplo14 List\Ejemplo14 List\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\maestrok\documents\visual studio 2010\Projects\Ejemplo14 List\Ejemplo14 List\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\maestrok\documents\visual studio 2010\Projects\Ejemplo14 List\Ejemplo14 List\obj\x86\Debug\Ejemplo14 List.exe
+c:\users\maestrok\documents\visual studio 2010\Projects\Ejemplo14 List\Ejemplo14 List\obj\x86\Debug\Ejemplo14 List.pdb
+Z:\Basico 10 de sep\00 Recursos compartidos\03 C#\Ejemplos\Ejemplo14 List\Ejemplo14 List\obj\x86\Debug\Ejemplo14 List.exe
+Z:\Basico 10 de sep\00 Recursos compartidos\03 C#\Ejemplos\Ejemplo14 List\Ejemplo14 List\obj\x86\Debug\Ejemplo14 List.pdb
+Z:\Basico 10 de sep\00 Recursos compartidos\03 C#\Ejemplos\Ejemplo14 List\Ejemplo14 List\bin\Debug\Ejemplo14 List.exe
+Z:\Basico 10 de sep\00 Recursos compartidos\03 C#\Ejemplos\Ejemplo14 List\Ejemplo14 List\bin\Debug\Ejemplo14 List.pdb
+Z:\Basico 10 de sep\00 Recursos compartidos\03 C#\Ejemplos\Ejemplo14 List\Ejemplo14 List\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Basico 10 de sep\00 Recursos compartidos\03 C#\Ejemplos\Ejemplo14 List\Ejemplo14 List\obj\x86\Debug\Ejemplo14_List.Form1.resources
+Z:\Basico 10 de sep\00 Recursos compartidos\03 C#\Ejemplos\Ejemplo14 List\Ejemplo14 List\obj\x86\Debug\Ejemplo14_List.Properties.Resources.resources
+Z:\Basico 10 de sep\00 Recursos compartidos\03 C#\Ejemplos\Ejemplo14 List\Ejemplo14 List\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\Basico 10 de sep\00 Recursos compartidos\03 C#\Ejemplos\Ejemplo14 List\Ejemplo14 List\obj\x86\Debug\GenerateResource.write.1.tlog

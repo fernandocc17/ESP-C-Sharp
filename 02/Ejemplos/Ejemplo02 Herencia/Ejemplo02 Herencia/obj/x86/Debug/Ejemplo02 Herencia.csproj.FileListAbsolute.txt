@@ -1,0 +1,9 @@
+C:\Users\maestroe\Documents\Visual Studio 2010\Projects\Ejemplo02 Herencia\Ejemplo02 Herencia\bin\Debug\Ejemplo02 Herencia.exe
+C:\Users\maestroe\Documents\Visual Studio 2010\Projects\Ejemplo02 Herencia\Ejemplo02 Herencia\bin\Debug\Ejemplo02 Herencia.pdb
+C:\Users\maestroe\Documents\Visual Studio 2010\Projects\Ejemplo02 Herencia\Ejemplo02 Herencia\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maestroe\Documents\Visual Studio 2010\Projects\Ejemplo02 Herencia\Ejemplo02 Herencia\obj\x86\Debug\Ejemplo02_Herencia.Form1.resources
+C:\Users\maestroe\Documents\Visual Studio 2010\Projects\Ejemplo02 Herencia\Ejemplo02 Herencia\obj\x86\Debug\Ejemplo02_Herencia.Properties.Resources.resources
+C:\Users\maestroe\Documents\Visual Studio 2010\Projects\Ejemplo02 Herencia\Ejemplo02 Herencia\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\maestroe\Documents\Visual Studio 2010\Projects\Ejemplo02 Herencia\Ejemplo02 Herencia\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\maestroe\Documents\Visual Studio 2010\Projects\Ejemplo02 Herencia\Ejemplo02 Herencia\obj\x86\Debug\Ejemplo02 Herencia.exe
+C:\Users\maestroe\Documents\Visual Studio 2010\Projects\Ejemplo02 Herencia\Ejemplo02 Herencia\obj\x86\Debug\Ejemplo02 Herencia.pdb

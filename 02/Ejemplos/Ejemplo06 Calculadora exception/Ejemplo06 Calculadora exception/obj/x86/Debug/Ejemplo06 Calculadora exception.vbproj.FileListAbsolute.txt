@@ -1,0 +1,11 @@
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo06 Calculadora exception\Ejemplo06 Calculadora exception\bin\Debug\Ejemplo06 Calculadora exception.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo06 Calculadora exception\Ejemplo06 Calculadora exception\bin\Debug\Ejemplo06 Calculadora exception.pdb
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo06 Calculadora exception\Ejemplo06 Calculadora exception\bin\Debug\Ejemplo06 Calculadora exception.xml
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo06 Calculadora exception\Ejemplo06 Calculadora exception\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo06 Calculadora exception\Ejemplo06 Calculadora exception\obj\x86\Debug\Ejemplo06_Calculadora_exception.Form1.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo06 Calculadora exception\Ejemplo06 Calculadora exception\obj\x86\Debug\Ejemplo06_Calculadora_exception.Resources.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo06 Calculadora exception\Ejemplo06 Calculadora exception\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo06 Calculadora exception\Ejemplo06 Calculadora exception\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo06 Calculadora exception\Ejemplo06 Calculadora exception\obj\x86\Debug\Ejemplo06 Calculadora exception.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo06 Calculadora exception\Ejemplo06 Calculadora exception\obj\x86\Debug\Ejemplo06 Calculadora exception.xml
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo06 Calculadora exception\Ejemplo06 Calculadora exception\obj\x86\Debug\Ejemplo06 Calculadora exception.pdb

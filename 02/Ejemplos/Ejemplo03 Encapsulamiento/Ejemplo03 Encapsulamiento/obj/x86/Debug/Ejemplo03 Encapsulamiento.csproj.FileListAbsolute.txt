@@ -1,0 +1,9 @@
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo03 Encapsulamiento\Ejemplo03 Encapsulamiento\bin\Debug\Ejemplo03 Encapsulamiento.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo03 Encapsulamiento\Ejemplo03 Encapsulamiento\bin\Debug\Ejemplo03 Encapsulamiento.pdb
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo03 Encapsulamiento\Ejemplo03 Encapsulamiento\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo03 Encapsulamiento\Ejemplo03 Encapsulamiento\obj\x86\Debug\Ejemplo03_Encapsulamiento.Form1.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo03 Encapsulamiento\Ejemplo03 Encapsulamiento\obj\x86\Debug\Ejemplo03_Encapsulamiento.Properties.Resources.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo03 Encapsulamiento\Ejemplo03 Encapsulamiento\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo03 Encapsulamiento\Ejemplo03 Encapsulamiento\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo03 Encapsulamiento\Ejemplo03 Encapsulamiento\obj\x86\Debug\Ejemplo03 Encapsulamiento.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo03 Encapsulamiento\Ejemplo03 Encapsulamiento\obj\x86\Debug\Ejemplo03 Encapsulamiento.pdb

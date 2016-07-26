@@ -1,0 +1,32 @@
+Tarea01
+	Clase
+	Objeto
+	Metodo
+	Encapsulamiento
+	Herencia
+	Abstraccion
+	Polimorfismo
+	Metodo constructor
+Tarea02
+	Abstract	
+	Sealed
+	Overrides
+	Clase base
+	Clase derivada	
+	Sobreescritura
+	Sobrecarga
+
+Tarea03
+	Que es un arreglo
+	Arreglo unidimensional
+	Arreglo bidimensional
+	Clase Array
+	Como meter datos a un array
+	Como sacar datos de un array
+
+Tarea04
+	Excepciones
+	Bloque Try-catch
+	Genericos
+	Colecciones en general
+	List

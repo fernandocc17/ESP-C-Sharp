@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo10 Pila entera", "Ejemplo10 Pila entera\Ejemplo10 Pila entera.csproj", "{3E37542E-B3C6-493C-9960-EFB28A72B8ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E37542E-B3C6-493C-9960-EFB28A72B8ED}.Debug|x86.ActiveCfg = Debug|x86
+		{3E37542E-B3C6-493C-9960-EFB28A72B8ED}.Debug|x86.Build.0 = Debug|x86
+		{3E37542E-B3C6-493C-9960-EFB28A72B8ED}.Release|x86.ActiveCfg = Release|x86
+		{3E37542E-B3C6-493C-9960-EFB28A72B8ED}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

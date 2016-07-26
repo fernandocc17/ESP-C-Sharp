@@ -1,0 +1,11 @@
+c:\users\maestrok\documents\visual studio 2010\Projects\Ejemplo15 Split\Ejemplo15 Split\bin\Debug\Ejemplo15 Split.exe
+c:\users\maestrok\documents\visual studio 2010\Projects\Ejemplo15 Split\Ejemplo15 Split\bin\Debug\Ejemplo15 Split.pdb
+c:\users\maestrok\documents\visual studio 2010\Projects\Ejemplo15 Split\Ejemplo15 Split\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\maestrok\documents\visual studio 2010\Projects\Ejemplo15 Split\Ejemplo15 Split\obj\x86\Debug\Ejemplo15_Split.Form1.resources
+c:\users\maestrok\documents\visual studio 2010\Projects\Ejemplo15 Split\Ejemplo15 Split\obj\x86\Debug\Ejemplo15_Split.Properties.Resources.resources
+c:\users\maestrok\documents\visual studio 2010\Projects\Ejemplo15 Split\Ejemplo15 Split\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\maestrok\documents\visual studio 2010\Projects\Ejemplo15 Split\Ejemplo15 Split\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\maestrok\documents\visual studio 2010\Projects\Ejemplo15 Split\Ejemplo15 Split\obj\x86\Debug\Ejemplo15 Split.exe
+c:\users\maestrok\documents\visual studio 2010\Projects\Ejemplo15 Split\Ejemplo15 Split\obj\x86\Debug\Ejemplo15 Split.pdb
+Z:\Basico 10 de sep\00 Recursos compartidos\03 C#\Ejemplos\Ejemplo15 Split\Ejemplo15 Split\obj\x86\Debug\Ejemplo15 Split.exe
+Z:\Basico 10 de sep\00 Recursos compartidos\03 C#\Ejemplos\Ejemplo15 Split\Ejemplo15 Split\obj\x86\Debug\Ejemplo15 Split.pdb

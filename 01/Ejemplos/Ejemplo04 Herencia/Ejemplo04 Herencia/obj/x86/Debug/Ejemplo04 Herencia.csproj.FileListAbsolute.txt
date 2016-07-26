@@ -1,0 +1,12 @@
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo04 Herencia\bin\Debug\Ejemplo04 Herencia.exe
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo04 Herencia\bin\Debug\Ejemplo04 Herencia.pdb
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo04 Herencia\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo04 Herencia\obj\x86\Debug\Ejemplo04_Herencia.Properties.Resources.resources
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo04 Herencia\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo04 Herencia\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo04 Herencia\obj\x86\Debug\Ejemplo04 Herencia.exe
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo04 Herencia\obj\x86\Debug\Ejemplo04 Herencia.pdb
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo04 Herencia\Ejemplo04 Herencia\obj\x86\Debug\Ejemplo04 Herencia.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo04 Herencia\Ejemplo04 Herencia\obj\x86\Debug\Ejemplo04 Herencia.pdb
+Z:\Progr Basico Sabatino\00Recursos Compartidos\03 C#\Ejemplos\Ejemplo04 Herencia\Ejemplo04 Herencia\obj\x86\Debug\Ejemplo04 Herencia.exe
+Z:\Progr Basico Sabatino\00Recursos Compartidos\03 C#\Ejemplos\Ejemplo04 Herencia\Ejemplo04 Herencia\obj\x86\Debug\Ejemplo04 Herencia.pdb

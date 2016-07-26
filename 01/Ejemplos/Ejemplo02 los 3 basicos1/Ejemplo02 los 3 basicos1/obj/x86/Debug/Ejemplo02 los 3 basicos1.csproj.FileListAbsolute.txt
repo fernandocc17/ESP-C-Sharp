@@ -1,0 +1,9 @@
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo02 los 3 basicos1\Ejemplo02 los 3 basicos1\bin\Debug\Ejemplo02 los 3 basicos1.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo02 los 3 basicos1\Ejemplo02 los 3 basicos1\bin\Debug\Ejemplo02 los 3 basicos1.pdb
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo02 los 3 basicos1\Ejemplo02 los 3 basicos1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo02 los 3 basicos1\Ejemplo02 los 3 basicos1\obj\x86\Debug\Ejemplo02_los_3_basicos.Form1.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo02 los 3 basicos1\Ejemplo02 los 3 basicos1\obj\x86\Debug\Ejemplo02_los_3_basicos.Properties.Resources.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo02 los 3 basicos1\Ejemplo02 los 3 basicos1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo02 los 3 basicos1\Ejemplo02 los 3 basicos1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo02 los 3 basicos1\Ejemplo02 los 3 basicos1\obj\x86\Debug\Ejemplo02 los 3 basicos1.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo02 los 3 basicos1\Ejemplo02 los 3 basicos1\obj\x86\Debug\Ejemplo02 los 3 basicos1.pdb

@@ -1,0 +1,9 @@
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo01 Abstraccion\Ejemplo01 Abstraccion\bin\Debug\Ejemplo01 Abstraccion.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo01 Abstraccion\Ejemplo01 Abstraccion\bin\Debug\Ejemplo01 Abstraccion.pdb
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo01 Abstraccion\Ejemplo01 Abstraccion\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo01 Abstraccion\Ejemplo01 Abstraccion\obj\x86\Debug\Ejemplo01_Abstraccion.Form1.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo01 Abstraccion\Ejemplo01 Abstraccion\obj\x86\Debug\Ejemplo01_Abstraccion.Properties.Resources.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo01 Abstraccion\Ejemplo01 Abstraccion\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo01 Abstraccion\Ejemplo01 Abstraccion\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo01 Abstraccion\Ejemplo01 Abstraccion\obj\x86\Debug\Ejemplo01 Abstraccion.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo01 Abstraccion\Ejemplo01 Abstraccion\obj\x86\Debug\Ejemplo01 Abstraccion.pdb

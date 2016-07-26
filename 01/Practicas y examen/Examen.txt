@@ -1,0 +1,31 @@
+Examen
+1)Crear las siguientes clases:
+	Equipo de computo(no instanciable)
+	Smarthphone
+	Tablet
+	Escritorio
+	Laptop	
+	
+2)La clase equipo de computo debe tener los siguientes atributos:
+	Nombre
+	CPU
+	RAM
+	Marca
+	Disco Duro
+	
+3)La clase equipo de computo debe tener los siguientes metodos:
+	Encender
+	Apagar
+
+	
+4)En una forma debe de salir en un listbox todos los tipos de equipo de computo que se pueden crear.
+5)Esa misma forma debe de tener los textbox necesario para que el usuario pueda introducir todos los atributos del equipo de computo.
+6)Todos los objetos de algun equipo de computo podran guardarse en un archivo para los de ese mismo tipo (un archivo para tablet,otro para escritorio,etc.)
+7)Debe haber un boton en la forma que permita cargar todos los objetos del tipo que este seleccionado en el listbox a una list
+8)Debe haber un boton en la forma que permita cargar todos los objetos del list a un arreglo
+9)Debe haber un boton en la forma que llene un listbox con el nombre de todos los objetos seleccionados en el listbox
+10)Al seleccionar un objeto del listbox salga en un listbox el resto de sus caracteristicas.
+
+
+
+
